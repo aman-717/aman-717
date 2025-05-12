@@ -1,6 +1,6 @@
+## ☘️ Hi I'm Aman Kumar Sharma
 # 💫 About Me:
-#I am Aman Kumar Sharma,
- A Full Stack Developer with expertise in building scalable web applications using the MERN stack. I have a strong foundation in data structures and algorithms, along with solid problem-solving skills. I’m always eager to learn, grow, and create impactful solutions that drive meaningful results.
+A Full Stack Developer with expertise in building scalable web applications using the MERN stack. I have a strong foundation in data structures and algorithms, along with solid problem-solving skills. I’m always eager to learn, grow, and create impactful solutions that drive meaningful results.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aman-717&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-717&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Developer Quote
+### ✍️ Quote
 💬 *"Code is not just syntax and logic—it's the bridge between ideas and impact"* — Aman Kumar Sharma
 
 

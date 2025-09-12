@@ -2,12 +2,22 @@
 # 💫 About Me:
 A Full Stack Developer with expertise in building scalable web applications using the MERN stack. I have a strong foundation in data structures and algorithms, along with solid problem-solving skills. I’m always eager to learn, grow, and create impactful solutions that drive meaningful results.
 
+---
+
+## 🤝 Ready to Collaborate:
+🌟 I’m open to collaborating on **Full Stack Projects, Open Source Contributions, and Innovative Web Apps**.  
+If you’ve got an exciting project idea, feel free to reach out — let’s build something impactful together!  
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aman_sharma_0.5/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman717/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman05sharma03@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman_717/) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white)](https://www.codechef.com/users/aman_717)
+
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
@@ -28,13 +38,18 @@ A Full Stack Developer with expertise in building scalable web applications usin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aman-717&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aman-717&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-717&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ### ✍️ Quote
-💬 *"Code is not just syntax and logic—it's the bridge between ideas and impact"* — Aman Kumar Sharma
+💬 *"Code is not just syntax and logic—it's the bridge between ideas and impact"* — Aman Kumar Sharma  
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aman-717&icon=0&color=0)](https://visitcount.itsvg.in)

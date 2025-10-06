@@ -118,7 +118,7 @@ If you’ve got an exciting project idea, feel free to reach out — let’s bui
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anmol283&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aman-717&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 

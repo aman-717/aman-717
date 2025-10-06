@@ -11,14 +11,16 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-## About me
-- 🎓 **Final Year Student** specializing in **Full Stack Development**
-- 🌱 Currently diving deep into **Data Structures & Algorithms** in **c++**
-- 💻 Focusing on creating full-stack web applications with modern technologies
-- 🏆 **LeetCode Achiever**: 50 Days (2024 & 2025), 100 Days (2025) , 200 Days (2025) , 365 Active Days badge
-- 📫 How to reach me: **aman05sharma03@gmail.com**
-- ⚡ Fun fact: I love solving coding challenges and building innovative solutions
+
+* 🎓 **Final Year Student** specializing in **Full Stack Development**
+* 🌱 **Currently Learning:** Data Structures & Algorithms in **C++**
+* 💻 **Building:** Modern full-stack web applications
+* 📫 **Contact Me:** [aman05sharma03@gmail.com](mailto:aman05sharma03@gmail.com)
+* ⚡ **Fun Fact:** I enjoy solving coding challenges and building innovative projects
+
 
 <br clear="both"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
